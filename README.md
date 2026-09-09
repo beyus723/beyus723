@@ -18,7 +18,9 @@ I'm a student of Computing course at Bath Spa University -- -- --
 
 xxx xxx xxx xxx
 
-
+<p>
+  bla bla
+</p>
 <!-- 🌐 dRamilowski -->
 
 ### [🏆 Check Out My Full Portfolio Website](https://github.com/beyus723?tab=repositories)
