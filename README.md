@@ -38,9 +38,13 @@ I'm a student of Computing course at Bath Spa University -- -- --
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
+<br>
+
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
+
+<br>
 
 #### Data Analysis & Visualization
 <p>
@@ -51,11 +55,15 @@ I'm a student of Computing course at Bath Spa University -- -- --
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
+<br>
+
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
+
+<br>
 
 #### Business Intelligence & Analytics
 <p>
