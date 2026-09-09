@@ -47,8 +47,9 @@ I'm a student of Computing course at Bath Spa University -- -- --
 #### UX/UI Design
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Figma%20-%20Intermediate%20-%20green?logo=figma&logoColor=green&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GIMP%20-%20Intermediate%20-%20green?logo=gimp&logoColor=green&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Figma%20-%20Intermediate%20-%20green?logo=figma&logoColor=white&color=green">
+<img alt="Static Badge" src="https://img.shields.io/badge/GIMP%20-%20Intermediate%20-%20green?logo=gimp&logoColor=white&color=green">
+
 
 </p>
 
