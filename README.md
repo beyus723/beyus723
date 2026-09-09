@@ -16,20 +16,16 @@
 ## 🚀 About Me 
 I'm a student of Computing course at Bath Spa University -- -- -- 
 
-xxx xxx xxx xxx
 
-<p>
-  
-</p>
+
+
 <!-- 🌐 dRamilowski -->
 
 ### [🏆 Check Out My Full Portfolio Website](https://github.com/beyus723?tab=repositories)
 
+<br>
 
 
-<p>
-  blabla
-</p>
   
 ## 🔭 What I'm Currently Working On 
 
