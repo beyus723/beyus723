@@ -19,7 +19,7 @@ I'm a student of Computing course at Bath Spa University -- -- --
 xxx xxx xxx xxx
 
 <p>
-  bla bla
+  
 </p>
 <!-- 🌐 dRamilowski -->
 
