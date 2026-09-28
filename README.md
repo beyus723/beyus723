@@ -27,16 +27,16 @@ I'm a student of Computing course at Bath Spa University -- -- --
   
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** [......]  
+- **Project B:** [.......]
+- **Content Creation:** [.......]
 
 <br>
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [A new skill or technology you're exploring, ......]
+- [Another skill, e.g., ......]
 
 <br>
 
