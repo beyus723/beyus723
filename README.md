@@ -27,9 +27,9 @@ I'm a student of Computing course at Bath Spa University -- -- --
   
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Urbam Assets Upcycling]  
+- **Project A:** Urban Assets Upcycling  
 - **Project B:** [.......]
-- **Content Creation:** [Visual]
+- **Content Creation:** Events Live Visual Content
 
 <br>
 
