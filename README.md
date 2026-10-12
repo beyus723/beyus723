@@ -27,16 +27,16 @@ I'm a student of Computing course at Bath Spa University -- -- --
   
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Urban Assets Upcycling  
-- **Project B:** [.......]
-- **Content Creation:** Events Live Visual Content
+- **Project A:** Urban Asset Upcycle  
+- **Project B:** Coat Experts Painting Services
+- **Content Creation:** Live Visual Content for Events
 
 <br>
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, ......]
-- [Another skill, e.g., ......]
+- Social Media Management
+- AI use for Business Grow
 
 <br>
 
